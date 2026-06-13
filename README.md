@@ -1,4 +1,7 @@
-# Tao Personal Nexus
+# Tao-personalweb-Issues
+
+
+##以下内容已停止更新目前该仓库用来存储个人博客的评论
 
 一个面向个人展示、文章沉淀、项目整理和工具收藏的轻量个人网站。
 
